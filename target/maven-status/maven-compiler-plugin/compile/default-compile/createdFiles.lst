@@ -1,0 +1,6 @@
+com\indocosmo\springdemo\service\ProjectServiceImpl.class
+com\indocosmo\springdemo\controller\ProjectController.class
+com\indocosmo\springdemo\dao\ProjectDAO.class
+com\indocosmo\springdemo\dao\ProjectDAOImpl.class
+com\indocosmo\springdemo\service\ProjectService.class
+com\indocosmo\springdemo\model\Project.class
