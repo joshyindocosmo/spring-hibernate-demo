@@ -19,14 +19,15 @@ For fetching data Jquery ajax is used.
 
 1.Clone this project into your work space
 
-2.Open the project root directory in windows command prompt or linux terminal and run the following command  
+2.Execute the "project_db.sql" file to create database.You can find it on project's root directory.
+
+3.Open the project root directory in windows command prompt or linux terminal and run the following command  
 
 ```
 mvn clean package
 ```
-3.Execute the "project_db.sql" file to create file.You can find it on project's root directory.
 
-4.Then war file will be generated in target folder.
+4.Then "SpringMVCHibernateDemo.war" file will be generated in target folder.
 
 You can also use eclipse's build option.
 
