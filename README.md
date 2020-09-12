@@ -19,7 +19,7 @@ For fetching data Jquery ajax is used.
 
 1.Clone this project into your work space
 
-2.Open the project directory and run the following command
+2.Open the project root directory in windows command prompt or linux terminal and run the following command  
 
 ```
 mvn clean package
@@ -32,7 +32,7 @@ You can also use eclipse's build option.
 
 5.Put the war file in the webapps folder of tomcat
 
-6.Open the following url
+6.Open the following url in broswer
 
 ```
 http://localhost:8080/SpringMVCHibernateDemo/
