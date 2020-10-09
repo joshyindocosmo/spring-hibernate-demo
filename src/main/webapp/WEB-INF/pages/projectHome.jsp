@@ -30,7 +30,7 @@
 <body>
 
 <div class="container">
-  <h2>Project Table 2</h2>
+  <h2>Project Table 3</h2>
  
   <table class="table">
     <thead>
